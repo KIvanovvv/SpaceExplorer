@@ -13,6 +13,8 @@ namespace ConsoleApplication1
             Console.WriteLine("Hello World");
             Console.WriteLine("Ай сиктир !");
             Console.WriteLine("абд");
+            Console.WriteLine("2+2"); 
+
         }
     }
 }
